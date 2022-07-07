@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cubelated
-- 👀 I’m interested in Software Engineering, specifically Mobile Applications Development
+- 👀 I’m interested in Software Engineering, specifically Mobile Applications
 - 🌱 I’m currently learning Flutter with Darts
 
 <!---
