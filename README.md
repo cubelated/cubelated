@@ -1,8 +1,6 @@
 👋 Hi, I’m @cubelated
 
-I’m a Full-Stack Software Engineer who identifies challenges, design a purpose and building effective systems. I enjoy engineering software that improves work and lifestyle, helps users in maximizing efficiency, and turns complex tasks into easy-to-do experiences.
-
-My work focuses on creating applications that are effective, maintainable, and impactful. From application interfaces to backend integrations, I’m motivated to solve real problems, optimize efficiency, and deliver meaningful value to everyone.
+I’m an ambitious Full-Stack Software Engineer who identifies real-life problems, design a solution and building systems to fulfill a specific purpose. I enjoy building software that improves productivity, helps users in day to day tasks, efficiency, and aims to break down complex tasks into convenience. Just as Christ has given Himself to save the world, I am devoted to building impact to better the society based in truth!
 
 <!---
 cubelated/cubelated is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
